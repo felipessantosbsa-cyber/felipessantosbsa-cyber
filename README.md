@@ -25,8 +25,11 @@ Tenho 16 anos e sou de Jundiaí-SP. Sou autodidata, focado em crescimento técni
 
 **Ferramentas e Hardware:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+&nbsp;
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+&nbsp;
 ![Hardware](https://img.shields.io/badge/Hardware-Manutenção-brightgreen?style=flat-square)
 
 ---
