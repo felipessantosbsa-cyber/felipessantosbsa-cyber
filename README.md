@@ -2,7 +2,7 @@
 
 **Estudante de Desenvolvimento de Sistemas | ETEC Vasco Antonio Venchiarutti**
 
-Tenho 16 anos e sou de Jundiaí-SP. Sou autodidata, focado em crescimento técnico e acadêmico. Busco aplicar minha disciplina, facilidade com lógica e conhecimentos multidisciplinares para resolver problemas reais na área de tecnologia.
+Tenho 16 anos e sou de Jundiaí-SP, autodidata, focado em crescimento técnico e acadêmico. Busco aplicar disciplina, facilidade com lógica e conhecimentos multidisciplinares para resolver problemas reais na área de tecnologia.
 
 ---
 
