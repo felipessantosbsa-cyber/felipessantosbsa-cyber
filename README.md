@@ -24,15 +24,7 @@ Tenho 16 anos e sou de Jundiaí-SP. Sou autodidata, focado em crescimento técni
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Ferramentas e Hardware:**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-&nbsp;
-![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-&nbsp;
-![Hardware](https://img.shields.io/badge/Hardware-000000?style=flat-square)
-
-![Manutenção](https://img.shields.io/badge/Manutenção-brightgreen?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Office](https://img.shields.io/badge/Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Hardware](https://img.shields.io/badge/Hardware-black?style=flat-square) ![Manutenção](https://img.shields.io/badge/Manutenção-brightgreen?style=flat-square)
 
 ---
 
