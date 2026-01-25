@@ -30,7 +30,7 @@ Tenho 16 anos e sou de Jundiaí-SP. Sou autodidata, focado em crescimento técni
 &nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 &nbsp;
-![Hardware](https://img.shields.io/badge/Hardware-Manutenção-brightgreen?style=flat-square)
+![Hardware](https://img.shields.io/badge/Hardware-Manutenção%20de%20PCs-brightgreen?style=flat-square)
 
 ---
 
