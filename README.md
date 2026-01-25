@@ -6,17 +6,18 @@ Tenho 16 anos e sou de Jundiaí-SP. Sou autodidata, focado em crescimento técni
 
 ---
 
-### 🏆 Reconhecimento e Conquistas
+### Reconhecimento e Conquistas:
 * **Medalha de Prata** - OBMASP (Olimpíada de Matemática das Escolas Estaduais de São Paulo NIVEL: 3) [18/20]
 * **Medalha de Bronze** - OLISP (Olimpíada Interpreta SP NIVEL: 3) [18/20]
+* **Medalha de Ouro** - Prova_Paulista 1º ano (1ºBM [8.44], 2ºBM [9.67],  3ºBM [8.88])
 * **Menção Honrosa** - OBMEP (Olimpíada Brasileira de Matemática das Escolas Públicas NIVEL: 3, FASE: 2)
-* **Destaque OLITEF** - (Olimpíada do Tesouro Direto de Educação Financeira NIVEL: 3) [68/74]
+* **Destaque OLITEF** - OLITEF (Olimpíada do Tesouro Direto de Educação Financeira NIVEL: 3) [68/74]
 
-### Atualmente
+### Atualmente:
 * Cursando o 1º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas.
 * Realizo manutenção e formatação de computadores e notebooks.
 
-### Habilidades Técnicas
+### Habilidades Técnicas:
 
 **Linguagens e Web (Estudo):**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -28,12 +29,12 @@ Tenho 16 anos e sou de Jundiaí-SP. Sou autodidata, focado em crescimento técni
 
 ---
 
-### Objetivo
+### Objetivo:
 Aplicar meus conhecimentos em lógica e informática em uma oportunidade de **estágio** na área de tecnologia e desenvolvimento de software.
 
 ---
 
-### 📧 Contato
+### Contato:
 - **Email:** [felipessantosbsa@gmail.com]
 - **Cidade:** Jundiaí - SP
 
