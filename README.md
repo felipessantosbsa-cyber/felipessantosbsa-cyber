@@ -2,7 +2,7 @@
 
 **Estudante de Desenvolvimento de Sistemas | ETEC Vasco Antonio Venchiarutti**
 
-Souu de Jundiaí-SP, autodidata, focado em crescimento técnico e acadêmico. Busco aplicar disciplina, facilidade com lógica e conhecimentos multidisciplinares para resolver problemas reais na área de tecnologia.
+Sou de Jundiaí-SP, autodidata, focado em crescimento técnico e acadêmico. Busco aplicar disciplina, facilidade com lógica e conhecimentos multidisciplinares para resolver problemas reais na área de tecnologia.
 
 ---
 
