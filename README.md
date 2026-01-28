@@ -8,7 +8,7 @@ Sou de Jundiaí-SP, autodidata, focado em crescimento técnico e acadêmico. Bus
 
 ### Reconhecimento e Conquistas:
 * **Medalha de Prata** - OBMASP (Olimpíada de Matemática das Escolas Estaduais de São Paulo NIVEL: 3) [18/20]
-* **Medalha de Bronze** - OLISP (Olimpíada Interpreta SP NIVEL: 3) [18/20]
+* **Medalha de Bronze** - OLISP (Olimpíada Interpreta SP NIVEL: 3) [17/20]
 * **Medalha de Ouro** - Prova_Paulista 1º ano (1ºBM. [8.44]) (2ºBM. [9.67])  (3ºBM. [8.88])
 * **Menção Honrosa** - OBMEP (Olimpíada Brasileira de Matemática das Escolas Públicas NIVEL: 3, FASE: 2)
 * **Destaque OLITEF** - OLITEF (Olimpíada do Tesouro Direto de Educação Financeira NIVEL: 3) [68/74]
